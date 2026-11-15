@@ -187,21 +187,15 @@ Edit `styles/theme.py` to change:
 
 ## 👨‍💻 Developer
 
-**Jatin Kumar**
+**Ankon Talukder**
 - B.Tech (Electronics and Communication Engineering), 3rd Year
 - Guru Nanak Dev University, Amritsar
-- 📧 dhjatin4@gmail.com
-- 📱 9888197119
+- 📧 ankontalukder@gmail.com
+- 📱 +91 9815411277
 
 ## 📄 License
 
 This project is open source and available for educational purposes.
-
-## 🙏 Acknowledgments
-
-- Built with ❤️ and ⚡
-- Inspired by cyberpunk aesthetics
-- Powered by the amazing Streamlit community
 
 ## 🐛 Bug Reports & Feature Requests
 
